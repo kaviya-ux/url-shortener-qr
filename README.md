@@ -65,7 +65,6 @@ This project intentionally uses two APIs that require **no signup and no API key
 - Custom short-link aliases (if using a paid/authenticated API)
 - Click analytics per shortened link
 - Export history as CSV or JSON
-- Dark mode toggle
 
 ## License
 
