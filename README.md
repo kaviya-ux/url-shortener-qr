@@ -61,5 +61,4 @@ This project intentionally uses two APIs that require **no signup and no API key
 - If you outgrow the free tier or want more control (custom domains, click analytics, etc.), you can swap in another shortening API by editing the `shortenUrl()` function in `script.js` — the rest of the app doesn't need to change.
 
 ## License
-
 Free to use for learning or personal projects.
