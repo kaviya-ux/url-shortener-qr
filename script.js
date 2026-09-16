@@ -205,7 +205,6 @@ function clearHistory() {
     localStorage.removeItem(HISTORY_KEY);
     renderHistory();
 }
-
 // ALLOW PRESSING ENTER IN THE INPUT FIELD
 urlInput.addEventListener("keydown", function (event) {
     if (event.key === "Enter") {
