@@ -2,7 +2,7 @@
 
 A URL shortener with an instant QR code generator, built with HTML, Tailwind CSS, and vanilla JavaScript — split into separate structure, style, and logic files. Paste in any long link, get a short link back, and a scannable QR code alongside it. Every link you shorten is saved locally so you can revisit, copy, or delete it later.
 
-## Live Demo
+# Live Demo
 
 Keep `index.html`, `style.css`, and `script.js` in the same folder and open `index.html` in any browser. No installation, no build step, no API key required.
 
