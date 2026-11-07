@@ -62,6 +62,3 @@ This project intentionally uses two APIs that require **no signup and no API key
 
 ## License
 Free to use for learning or personal projects.
-
-
-
